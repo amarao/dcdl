@@ -316,6 +316,7 @@ dependencies = [
  "clap",
  "genanki-rs",
  "reqwest",
+ "serde",
  "serde_json",
  "tokio",
 ]

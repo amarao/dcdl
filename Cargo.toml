@@ -9,3 +9,4 @@ genanki-rs = "0.4"
 tokio = { version = "*", features = ["full"] }
 reqwest = { version = "*", features = ["json"] }
 serde_json = "*"
+serde = { version = "*", features = ["derive"] }
